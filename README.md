@@ -4,6 +4,14 @@ Pythonová knihovna a nástroj pro šifrování a dešifrování zpráv pomocí 
 
 ---
 
+## ⚠️ Důležité upozornění
+
+Tento projekt je vytvořen **pouze pro studijní účely**. 
+
+> **Vysílání na rádiových frekvencích bez licence a oprávnění je nelegální.** 
+> Autor nenese žádnou odpovědnost za zneužití kódu nebo porušení platných zákonů.
+
+
 ## 🚀 Hlavní funkce
 
 * **Mapování A1Z26:** Převod abecedy $A=01 \dots Z=26$ do dvoumístných číselných kódů.
