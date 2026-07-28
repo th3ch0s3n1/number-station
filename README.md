@@ -27,7 +27,7 @@ Tento projekt je vytvořen **pouze pro studijní účely**.
 Knihovna používá pouze standardní knihovnu Pythonu 3.10+ (bez externích závislostí).
 
 ```bash
-git clone [https://github.com/th3ch0s3n1/numbers-station.git](https://github.com/th3ch0s3n1/numbers-station.git)
+git clone https://github.com/th3ch0s3n1/numbers-station.git
 cd numbers-station
 
 ```
